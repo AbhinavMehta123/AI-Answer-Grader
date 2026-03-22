@@ -1,3 +1,4 @@
 bcrypt
 sentence-transformers
 torch
+matplotlib
